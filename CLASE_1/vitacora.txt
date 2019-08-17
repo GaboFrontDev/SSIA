@@ -1,0 +1,25 @@
+Primer clase de SSP de IA 1.
+
+Estamos esperando el profesor desde hace más de una hora de que comenzó la clase.
+
+Empecé a realizar el repositorio para estar subiendo mis cambios. Recomiendo ampliamente
+esta práctica ya que usando cloud storage solo almacena como datos planos y no gestiona 
+versionamiento de tu código ni de tus cambios. Considero que Git ofrece distintas herrramientas
+para desarrolladores de manera profesional. 
+
+[8:04] El profesor se acerca al escritorio tomando cosas de su mochila.
+
+Estaremos hablado en inglés (asume el profesor todos sabemos)
+Se considera una mejora más amplia el uso de inglés
+
+El contenido es : 
+    ◙ A brief of AI.
+    ◘ Agent-based Computing.
+    ◘ Optimization: 
+        ○ Agent-based approach;
+        ○ Machine Learning approach;
+        ○ Soft Computing-based approach;
+        ○ Bio-inspired computing approach;
+
+Se sugiere crear tus propias técnicas para inteligencia artificial para aprender a 
+optimizar
