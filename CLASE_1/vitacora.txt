@@ -1,6 +1,6 @@
 Primer clase de SSP de IA 1.
 
-Estamos esperando el profesor desde hace más de una hora de que comenzó la clase.
+Estamos esperando el profesor desde hace 15 minutos desde que comenzó la clase.
 
 Empecé a realizar el repositorio para estar subiendo mis cambios. Recomiendo ampliamente
 esta práctica ya que usando cloud storage solo almacena como datos planos y no gestiona 
@@ -34,3 +34,18 @@ Para la clase se recomienda utilizar
     ○ Jade
     ○ cloud dev platforms
     ○ Avr
+
+Las actividades de aprendizaje serán: 
+    ○ Tech Readings.
+    ○ Hands-on.
+    ○ Challenges.
+    ○ Projects.
+
+Los Hands-on y los Challenges estarán relacionados; los Challenges y los Projects están relacionados. 
+Es necesario hacer varios Hands-on y varios Challenges para los Projects 
+
+Evaluación: 
+    ○ Hands-on      30%
+    ○ Challenges    30%
+    ○ Projects      30%
+
