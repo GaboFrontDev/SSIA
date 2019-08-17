@@ -7,7 +7,7 @@ esta práctica ya que usando cloud storage solo almacena como datos planos y no 
 versionamiento de tu código ni de tus cambios. Considero que Git ofrece distintas herrramientas
 para desarrolladores de manera profesional. 
 
-[8:04] El profesor se acerca al escritorio tomando cosas de su mochila.
+[8:04] El profesor se acerca al escritorio tomando cosas de su mochila y da inicio al curso.
 
 Estaremos hablado en inglés (asume el profesor todos sabemos)
 Se considera una mejora más amplia el uso de inglés
@@ -23,3 +23,14 @@ El contenido es :
 
 Se sugiere crear tus propias técnicas para inteligencia artificial para aprender a 
 optimizar
+
+Para la clase se recomienda utilizar 
+    ○ Linux
+    ○ Latex
+    ○ Java
+    ○ Embbebed C, C Lang
+    ○ JDK
+    ○ Jess
+    ○ Jade
+    ○ cloud dev platforms
+    ○ Avr
