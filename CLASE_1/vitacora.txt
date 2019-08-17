@@ -1,4 +1,6 @@
-Primer clase de SSP de IA 1.
+Primer clase de SSP de IA 1: 
+    José Antio Aviña
+    3313073905
 
 Estamos esperando el profesor desde hace 15 minutos desde que comenzó la clase.
 
@@ -49,3 +51,5 @@ Evaluación:
     ○ Challenges    30%
     ○ Projects      30%
 
+Challenge de esta clase: 
+    instalar Jade y echarlo a andar (Java Agent Development Framework) [url]: https://jade.tilab.com/
