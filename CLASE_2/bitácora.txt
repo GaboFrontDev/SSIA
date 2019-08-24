@@ -1,0 +1,37 @@
+
+
+Segunda clase de SSP de IA 1: 
+
+Hemos descargado e instalado jade el cual es un manejador de agentes remotos de java
+actualmente estamos definiendo unas cuantas cuestiones teóricas.
+
+Correré jade en windows en lo que termino de solventar el entorno en docker. 
+Quizá necesite correrlo de manera nativa.
+
+Dentro del gui de jade se encuentran varias clases:
+	ams <Agent Managment System>
+	df <Directory Facilitator>
+	rma <remote Managment agent>
+
+Logré instalar todo jade. Estoy checando como se compila y se ejecuta cada clase  de ejemplo
+
+El profesor nos pasará los ejemplos necesarios para poder ejecutar clases de jade
+
+Anexé una carpeta donde viene todo el core de Jade para poder ejeuctarlo facilmente desde 
+cualquier máquina
+
+Con esta herramienta busca generar un conjunto de agentes inteligentes que pueden contener
+comportamiento y habilidades.
+
+
+Hay un tercer agente en la plataforma, el remote Managment agent
+
+Una sola máquina es la que maneja ams y df mientras que las demás máquinas conectadas usan agentes simples 
+Se puede considerar como el agente constructor
+
+El comportamiento es un medio para que los agentes realicen tareas 
+
+Se agregaron los Behaviours:
+	One Shot.
+	Cyclic.
+	Generic.
