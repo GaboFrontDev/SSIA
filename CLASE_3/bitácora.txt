@@ -1,0 +1,27 @@
+Tercer clase de IA 
+Para correr jade navega a CLASE_2 y corre java -cp lib/jade.jar:classes/ jade.Boot -gui
+repasamos el tema de los agentes en jade y sus clases
+
+entramos en el tema de machine learning comprendiendo qué es la base de una computadora. 
+
+Básicamente usa un modelo de entrada de data, output que entra en una computadora y genera el programa. 
+
+Una definición vaga de machine learning es darle la capacidad a las computadoras de aprender.
+
+usamos el concepto ofrecido por Ng Andrew acerca de machine learning
+
+A fin de cuentas, se puede considerar que machine learninge es la entrada de datos historicos, procesarlos y 
+ofrecer un resultado de acuerdo a los datos.
+
+También esta área puede trabajar dando salidas de clasificación.
+
+Una técnica dentro del machine learning es simple linear regression. 
+Dentro de un problema que no hay valores bicotómicos puedes pensar quese puede resolver
+con linear regression
+
+La idea de esta técnica es 
+	ovtener la linea que mejor quede con la data
+	Minizar el error de la predicción
+	Error es la distancia del punto a la regresión lineal
+
+ecuacion de linea de regresion = y_hat = beta_0 + beta_1 * x
