@@ -37,3 +37,9 @@ para el ejemplo visto tenemos
 4.  Minimizando el error.  derivada_Epsilon con respecto a B_0, derivada_Epsilon con respecto a B_1, derivada_Epsilon con respecto a B_2
 
 El challenge 2 será obtener la solucion analitica a la multiple lineal regression
+
+
+notamos que facilmente se puede resolver esto con X'*X*B = y donde X' es la transpuesta de X y B es un vector de k elementos
+
+para solucionar la matriz se usara el metodo de matriz aumentada que resuelve para n variables, lo que se resolvera
+sera la ultima fotografia de la clase dle dia de hoy
