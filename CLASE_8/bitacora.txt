@@ -1,0 +1,39 @@
+clase del dia 5 de octubre
+
+se va a hacer revision de todas las demas actividades
+
+entre estas estan los servicios que ofrecen agentes que ya hicimos con anterioridad. 
+Entre los agentes hechos está el agente de regresión lineal simple de acuerdo a la 
+simplificación que realizamos.
+
+Nuestro agente puede hacer regresión con cualquier parámetro dado. Los valores que 
+toma nuestro agente generan un hiperplano 
+
+la ecuacion genera la prediccion de manera que
+
+y_i  = B_0 + B_1ix_1i + B_i2x_2i + ... + B_ni*x_ni
+
+que se puede reducir a 
+
+y = B*X-U
+
+donde B y X son matrices 
+
+X tiene una dimension de [k,n] 
+
+B tiene una dimension de [1,k]
+Y tiene una dimension de [1,n]
+U tiene una dimension de [1,n]
+
+
+para el ejemplo visto tenemos 
+
+1.  y_hat111111111111 = B_0 + B_1*x_1 + B_2*X_2 + Epsilon
+
+2.  Epsilon = suma de i = 1 a n (y_i - y_hat_1)^2
+
+3.  (Epsilon es el error) Epsilon = suma de i = 1 a n (y_i - (B_0 + B_1*x_1 + B_2*X_2)^2 )
+
+4.  Minimizando el error.  derivada_Epsilon con respecto a B_0, derivada_Epsilon con respecto a B_1, derivada_Epsilon con respecto a B_2
+
+El challenge 2 va obtener la solucion analitica a la multiple lineal regression
