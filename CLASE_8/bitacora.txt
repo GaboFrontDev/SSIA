@@ -41,5 +41,5 @@ El challenge 2 será obtener la solucion analitica a la multiple lineal regressi
 
 notamos que facilmente se puede resolver esto con X'*X*B = y donde X' es la transpuesta de X y B es un vector de k elementos
 
-para solucionar la matriz se usara el metodo de matriz aumentada que resuelve para n variables, lo que se resolvera
+para solucionar la matriz se usara el metodo de matriz aumentada que resuelve para n variables, lo que se resolvera de manera analitica
 sera la ultima fotografia de la clase dle dia de hoy
