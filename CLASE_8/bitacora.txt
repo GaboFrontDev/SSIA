@@ -28,7 +28,7 @@ U tiene una dimension de [1,n]
 
 para el ejemplo visto tenemos 
 
-1.  y_hat111111111111 = B_0 + B_1*x_1 + B_2*X_2 + Epsilon
+1.  y_hat = B_0 + B_1*x_1 + B_2*X_2 + Epsilon
 
 2.  Epsilon = suma de i = 1 a n (y_i - y_hat_1)^2
 
