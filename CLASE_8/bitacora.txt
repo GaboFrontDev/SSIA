@@ -43,3 +43,9 @@ notamos que facilmente se puede resolver esto con X'*X*B = y donde X' es la tran
 
 para solucionar la matriz se usara el metodo de matriz aumentada que resuelve para n variables, lo que se resolvera de manera analitica
 sera la ultima fotografia de la clase dle dia de hoy
+
+comando usado para compilar la clase OneShootAgent y para que aparezca dentro de nuestro classpath de agentes
+    javac -cp lib/jade.jar src/examples/behaviours/OneShootAgent.java  -d  classes/
+
+lo importante en este comando para que jade reconozca mis agentes es el classpath "lib/jade.jar" ya que con eso hace la referencia
+de clases 

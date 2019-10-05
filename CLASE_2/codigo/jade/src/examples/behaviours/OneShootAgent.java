@@ -3,7 +3,7 @@ package examples.behaviours;
 import jade.core.Agent;
 import jade.core.behaviours.OneShotBehaviour;
 
-public class OneShotAgent extends Agent {
+public class OneShootAgent extends Agent {
 
   protected void setup() {
     System.out.println("Agent "+getLocalName()+" started.");
