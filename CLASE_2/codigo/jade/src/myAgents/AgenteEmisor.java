@@ -18,7 +18,7 @@ public class AgenteEmisor extends Agent {
             AID id = new AID();
             id.setLocalName("receptor");
  
-        // CreaciÃ³n del objeto ACLMessage
+        // Creación del objeto ACLMessage
             ACLMessage mensaje = new ACLMessage(ACLMessage.REQUEST);
  
         //Rellenar los campos necesarios del mensaje
