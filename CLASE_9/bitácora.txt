@@ -1,0 +1,39 @@
+CLASE DEL SÁBADO 16 DE NOVIEMBRE
+
+YA SE TIENEN 7 HANDS-ON Y 3 CHALLENGE 
+
+Para este punto ya habíamos leído acerca de la regresión lineal múltiple
+
+Se agregó la regresión logística. 
+
+Challenge 3 to produce the proof for the polynomial reggresion technique
+
+Challenge 4 to produce the proof for the logistical reggresion technique
+
+Con cada uno de estos challenge se basa en buscar los valores de las ß 
+
+
+
+Para la MLR se utlizan 2 variables predictoras x_1, x_2 en el ejemplo de usaron 
+datos del gramaje de un elemento químico
+
+la ecuacion de prediccion es (MRL)
+
+1.- y = Betha_0 + Betha_1 * x_1 + Betha_2 * x_2 + error
+
+2.- y_hat = Betha_hat_0 + Betha_hat_1 * x_1i + Betha_hat_2 * x_2i + error_i
+
+3.- suma de i en 1 hasta n de (y_i - y_hat_i)²
+
+4.- suma de i en 1 hasta n de 
+    (y_i - (Betha_hat_0 + Betha_hat_1 * x_1i + Betha_hat_2 * x_2i + error_i))²
+
+Para encontrar la solución se necesita encontrar el valor de las bethas con una matriz 
+
+Simple Quadratic Regression
+
+el vertice de una parábola se calcula 
+ a = -b / 2a
+
+con esto en cuenta es como desplegamos la matriz que dibuja nuestra parábola
+
