@@ -1,0 +1,31 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "javac -cp lib\\Jama-1.0.3.jar;lib\\commons-math3-3.6.1.jar;lib\\jade.jar; src\\myAgents\\*.java -d classes\\",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "start jade MLR",
+      "type": "shell",
+      "command": "java -cp lib\\Jama-1.0.3.jar;lib\\jade.jar;classes\\ jade.Boot -agents MLR:examples.behaviours.MLR"
+    },
+    {
+      "label": "start jade ACM",
+      "type": "shell",
+      "command": "java -cp lib\\commons-math3-3.6.1.jar;lib\\jade.jar;classes\\ jade.Boot -agents MLR_ACM:examples.behaviours.MLR_ACM"
+    },
+    {
+      "label": "start jade GUI",
+      "type": "shell",
+      "command": "java -cp lib\\Jama-1.0.3.jar;lib\\jade.jar;classes\\ jade.Boot -agents MLR:examples.behaviours.MLR"
+    }
+  ]
+}
